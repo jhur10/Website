@@ -1,5 +1,8 @@
 project:
   type: website
+  output-dir: docs
+  # freeze: false
+
 
 website:
   title: "Website"
@@ -8,6 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: 1_work.qmd
+      - href: 2_conference.qmd
 
 format:
   html:
