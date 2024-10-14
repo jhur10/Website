@@ -4,8 +4,11 @@ title: "My Work"
 
 # Conference
 
-## Profiling Conversational Programmers at University: Insights into their Motivations and Goals from a Broad Sample of Non-Majors (2024)
+## Profiling Conversational Programmers at University: Insights into their Motivations and Goals from a Broad Sample of Non-Majors (2024) (w/ Professor K. Cunningham)
 
+In this paper, Professor Cunningham and I ran a large-scale survey to learn the characteristics, learning goals,
+
+Citation:
 Jinyoung Hur and Kathryn Cunningham. 2024. Profiling Conversational Programmers at University: Insights into their Motivations and Goals from a Broad Sample of Non-Majors. In Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (ICER ’24), August 12, 2024. Association for Computing Machinery, New York, NY, USA, 293–311. https://doi.org/10.1145/3632620.3671123
 
 

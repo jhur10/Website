@@ -1,8 +1,11 @@
 ---
 title: "Website"
 ---
+
 Thank you for visiting my website!
 
-My name is Jinyoung Hur (but you can also call me Jina), and I am a Ph.D. student at the Computer Science Department at the Universtiy of Illinois Urbana-Champaign!
+My name is Jinyoung Hur (but you can also call me Jina), and I am a Ph.D. student at the Computer Science Department at the Universtiy of Illinois Urbana-Champaign. My research interests are in computing education for non-major students, individuals with disabilities, and computing education policy.
 
-If you would also like to view my 
+If you would also like to learn about my brilliant colleagues work, please visit [TRAILS Lab](https://trailslab.web.illinois.edu/)!
+
+Thanks!

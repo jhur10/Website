@@ -2,9 +2,9 @@
   {
     "objectID": "1_work.html",
     "href": "1_work.html",
-    "title": "Work",
+    "title": "My Work",
     "section": "",
-    "text": "Conference\nJinyoung Hur and Kathryn Cunningham. 2024. Profiling Conversational Programmers at University: Insights into their Motivations and Goals from a Broad Sample of Non-Majors. In Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (ICER ’24), August 12, 2024. Association for Computing Machinery, New York, NY, USA, 293–311. https://doi.org/10.1145/3632620.3671123\n\n\nJournal\nWhat you’re looking for is not here…\n\n\nDoctoral Consortium"
+    "text": "In this paper, Professor Cunningham and I ran a large-scale survey to learn the characteristics, learning goals,\nCitation: Jinyoung Hur and Kathryn Cunningham. 2024. Profiling Conversational Programmers at University: Insights into their Motivations and Goals from a Broad Sample of Non-Majors. In Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (ICER ’24), August 12, 2024. Association for Computing Machinery, New York, NY, USA, 293–311. https://doi.org/10.1145/3632620.3671123"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website",
+    "section": "",
+    "text": "Thank you for visiting my website!\nMy name is Jinyoung Hur (but you can also call me Jina), and I am a Ph.D. student at the Computer Science Department at the Universtiy of Illinois Urbana-Champaign. My research interests are in computing education for non-major students, individuals with disabilities, and computing education policy.\nIf you would also like to learn about my brilliant colleagues work, please visit TRAILS Lab!\nThanks!"
+  },
+  {
+    "objectID": "1_work.html#profiling-conversational-programmers-at-university-insights-into-their-motivations-and-goals-from-a-broad-sample-of-non-majors-2024-w-professor-k.-cunningham",
+    "href": "1_work.html#profiling-conversational-programmers-at-university-insights-into-their-motivations-and-goals-from-a-broad-sample-of-non-majors-2024-w-professor-k.-cunningham",
+    "title": "My Work",
+    "section": "",
+    "text": "In this paper, Professor Cunningham and I ran a large-scale survey to learn the characteristics, learning goals,\nCitation: Jinyoung Hur and Kathryn Cunningham. 2024. Profiling Conversational Programmers at University: Insights into their Motivations and Goals from a Broad Sample of Non-Majors. In Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (ICER ’24), August 12, 2024. Association for Computing Machinery, New York, NY, USA, 293–311. https://doi.org/10.1145/3632620.3671123"
   }
 ]
