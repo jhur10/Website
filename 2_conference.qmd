@@ -2,16 +2,10 @@
 title: "Conference Experiences"
 ---
 
-# SIGSCE 2024 (Portland, OR, USA)
+## SIGSCE 2024 (Portland, OR, USA)
 
+## ITiCSE 2024 (Milan, Italy)
 
+## ICER 2024 (Melbourne, Australia)
 
-# iTISCE 2024 (Milan, Italy)
-
-
-
-# ICER 2024 (Melbourne, Australia)
-
-
-
-# VL/HCC 2024 (Liverpool, UK)
+## VL/HCC 2024 (Liverpool, UK)
