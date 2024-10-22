@@ -10,3 +10,7 @@ If you would also like to learn about my brilliant colleagues' work, please visi
 
 Thanks!
 
+<a href="https://www.linkedin.com/in/jinyoung-jina-hur/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
+</a>
+
