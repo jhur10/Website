@@ -4,7 +4,7 @@ title: "Website"
 
 Thank you for visiting my website!
 
-My name is Jinyoung Hur (you can also call me Jina), and I am a Ph.D. student in the Computer Science Department at the University of Illinois Urbana-Champaign. My research interests lie at the intersection of **computer science education** and **human-computer interaction** (HCI), with a long-term goal of **broadening participation** and **promoting inclusion in computing**. My current research focuses on: (1) understanding factors associated with motivation and persistence among historically underrepresented groups in CS; and (2) designing and evluating interventions and technologies for **non-CS majors** and **individuals with disabilities**. I am also interested in **computing education policy**.
+My name is Jinyoung Hur (you can also call me Jina), and I am a Ph.D. student in the Computer Science Department at the University of Illinois Urbana-Champaign. My research interests lie at the intersection of **computer science education** and **human-computer interaction** (HCI), with a long-term goal of **broadening participation** and **promoting inclusion in computing**. My current research focuses on: (1) understanding factors associated with motivation and persistence among individuals from historically underrepresented groups in CS; and (2) designing and evaluating interventions and technologies for **non-CS majors** and **individuals with disabilities**. I am also interested in **computing education policy**.
 
 If you would also like to learn about my brilliant colleagues' work, please visit [TRAILS Lab](https://trailslab.web.illinois.edu/)!
 
